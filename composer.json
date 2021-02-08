@@ -8,6 +8,7 @@
             "email": "info@widevel.com"
         }
     ],
+	"minimum-stability" : "stable",
 	"autoload": {
         "psr-4": {
 			"widevel\\SmartLog\\": "src/"
