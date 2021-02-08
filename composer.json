@@ -1,0 +1,17 @@
+{
+    "name": "widevel/dynamicGS",
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "marco iosif constantinescu",
+            "email": "info@widevel.com"
+        }
+    ],
+	"autoload": {
+        "psr-4": {
+			"widevel\\SmartLog\\": "src/"
+		}
+    },
+    "require": {}
+}
